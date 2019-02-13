@@ -1,0 +1,95 @@
+/* body {
+    background-color: white;
+}
+
+/*#hero {
+    border: 1px;
+    border-color: black;
+    /*position: absolute;
+    /* margin-left: 18%; 
+    height: 90%;
+    width: 100%;
+    filter: brightness(50%);
+    z-index: 100;
+    
+}*/
+
+.hero {
+    /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("portfolio-hero.png");*/
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(50%);
+    position: relative;
+    z-index: 100;
+   }
+
+/*
+.tiles {
+
+    height: 150px;
+    width: 200px;
+}
+
+#intro {
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    /*position: absolute;
+    top: 34%;
+    left: 13%;
+    margin-left: 17%;
+    margin-right: 17%;
+    z-index: -1000;
+}
+
+#buttons {
+    /*position: absolute;
+    top: 61%;
+    left: 40%;
+}
+
+#btn1 {
+    background:none;
+    color: white;
+}
+
+#btn2 {
+    background:none;
+    color: white;
+}
+
+#btn3 {
+    background:none;
+    color: white;
+}
+
+/*#tiles-grid {
+    /*position: absolute;
+    top: 83%;
+    left: 30%;
+    right:26%;
+}
+
+.tiles {
+    height: 200px;
+    width: 300px;
+}*/
+  #linkedin {
+    top: 5%;
+    left: 1%;
+    height: 50px;
+    width: 50px;
+  }
+
+
+  /*#resume-div {
+    /*position: absolute;
+    left: 32%;
+    top: 109%;
+}
+
+/*#resume-card{
+    width:100%
+}*/ 
